@@ -9,6 +9,6 @@ Este repositório inclui 4 desafios propostos durante o processo seletivo da Tar
 - Node.js
 - formato JSON
 
---
+------
 
 Sinta-se à vontade para explorar os desafios e soluções fornecidos neste repositório!
